@@ -542,7 +542,7 @@ body {
 .collection,
 .exhibit,
 .hTagcloud {
-  padding: 1em 0;
+  padding: 0.5em 0;
   overflow: hidden;
   clear: both;
 }
@@ -693,7 +693,7 @@ h1, h2, #item-filters .collection, h3, h4, h5, h6 {
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
   font-weight: normal;
   line-height: 36px;
-  padding: .5em 0;
+  padding: .25em 0;
   margin: 0;
   color: #555;
 }
@@ -721,6 +721,7 @@ h2, #item-filters .collection {
 
 h3 {
   font-size: 24px;
+  line-height: 24px;
 }
 
 h6 {
